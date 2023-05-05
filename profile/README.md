@@ -1,5 +1,7 @@
 # Java Functional Testing Framework
 
+![java-functional-testing-framework-high-resolution-logo-color-on-transparent-background](https://user-images.githubusercontent.com/57295704/236533056-031a99b6-4adf-4d97-b71b-9570bccd7e37.png)
+
 Welcome to our **Java Functional Testing Framework** (**JFTF**) GitHub organization!
 
 Our framework is a complete test automation solution that provides a library for building functional test case applications that can be deployed on containerized targets. Additionally, it provides a control application that can be used to manage test reports, plan test case executions, and more. 
